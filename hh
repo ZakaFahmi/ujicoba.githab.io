@@ -3,7 +3,6 @@ Hi there, thanks for stopping by, this is **zaka fahmi** from indonesia, base in
 ---
 
 **I'm currently seeking for a new job**
-#pusing baget
 
 - Senior Java Developer(main)
   - 1 years experiences
